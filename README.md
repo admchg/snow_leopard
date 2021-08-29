@@ -1,3 +1,7 @@
+# TL;DR
+
+Lived in Park City, UT during COVID. Had a ski season pass but there was a highly-limited online reservation system. Wrote a script to constantly ping the ski resort's unsecured API for reservation inventory and send SMS via Twilio when something appeared, so I could actually get reservations to go ski.
+
 # Overview
 
 During COVID times, I moved to Park City, UT, home to North America's largest ski resort.
